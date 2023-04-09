@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>left</title>
+</head>
+<body>
+<a href="home.html">home</a><br><br>
+<a href="registration.html">registration</a><br><br>
+<a href="login.html">login</a><br><br>
+<a href="user profile.html">user profile</a><br><br>
+<a href="book catalog.html">book catalog</a><br><br>
+<a href="shooping cart.html">shopping cart</a><br><br>
+<a href="payment.html">payment</a><br><br>
+<a href="order confirmation.html">order confirmation</a><br><br>
+</body>
+</html>

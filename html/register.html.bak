@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>register</title>
+</head>
+<body>
+<form>
+<center>
+<u>create account</u>
+<table>
+<tr>
+<td><label>*Your Name</label></td>
+<td><input type="text" placeholder="yourname"></td>
+</tr>
+<tr>
+<td><label>user id</label></td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td><label>*password</label></td>
+<td><input type="password"></td>
+</tr>
+<tr>
+<td><label>*re-enter password</label></td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td><input type="submit"  value="create your priyadarshini account"></td>
+</tr>
+</center>
+</form>
+</body>
+</html>

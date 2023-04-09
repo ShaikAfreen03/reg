@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>user profile</title>
+</head>
+<body>
+<center>
+<form>
+<table bgcolor="cyan" text="black" border="3">
+<tr>
+<td>first name <input type="text"></td>
+</tr>
+<tr>
+<td>last name <input type="text"></td>
+</tr>
+<tr>
+<td>gender <input type="radio" name="r" >male &nbsp; <input type="radio" name="r">female &nbsp;</td>
+</tr>
+<tr>
+<td>email id <input type="text"></td>
+</tr>
+<tr>
+<td>Address <textarea type="text" rows="5" cols="10">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+</tr>
+
+
+
+
+
+
+
+
+
+</table>
+</form>
+</center>
+</body>
+</html>

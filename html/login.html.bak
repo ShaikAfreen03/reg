@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>user Profile</title>
+</head>
+<body>
+<center>
+<form>
+<table bgcolor="cyan" text="blue" border="5" >
+<tr>
+<td><label>User ID</label><input type="text"></td>
+</tr>
+<tr>
+<td><label>Password</label><input type="text"></td>
+</tr>
+<tr>
+<td><input type="submit" value="sign up"></td>
+</tr>
+</table>
+</form>
+</center>
+</body>
+</html>
